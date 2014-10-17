@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zyp:home|Door43 (zyp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zyp|d43-zyp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zyp/archive/master.zip|d43-zyp.zip]]
+
+**Recent Changes**
+{{changes>ns = zyp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zyp|Ethnologue data]]
+
